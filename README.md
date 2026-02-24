@@ -1,67 +1,58 @@
 # 🎮 MemoryDex — Pokémon Card Matching Game
 
-An interactive browse -based Pokémon memory card game built using HTML, CSS, and JavaScript.  
-Flip cards, match Pokémon pairs, track your time and steps, and challenge yourself with multiple difficulty levels.
+
+An interactive browser-based Pokémon memory game built with HTML, CSS, and JavaScript.  
+Flip cards, match Pokémon pairs, and complete the board using the fewest steps and time.
 
 ---
 
 ## 🚀 Features
 
-✅ Multiple difficulty levels  
-- 12 Cards (Easy)  
-- 16 Cards (Normal)  
-- 20 Cards (Hard)  
-- 24 Cards (Expert)
+🎯 Multiple difficulty levels  
+- Easy → 12 cards  
+- Normal → 16 cards  
+- Hard → 20 cards  
+- Expert → 24 cards  
 
-✅ Real-time timer  
+⏱️ Real-time game timer  
 
-✅ Step counter  
+👣 Step counter  
 
-✅ Pokémon images fetched dynamically from PokéAPI  
+🔄 Random Pokémon cards loaded dynamically  
 
-✅ Flip card animation  
+🃏 Smooth flip card animations  
 
-✅ Game Over screen showing:
-- total time taken
-- total steps used  
+🏁 Game-over screen showing total time and steps  
 
-✅ Restart game option  
+🔁 Restart game option  
 
-✅ Back to home screen option  
+🏠 Return to home screen  
 
-✅ Responsive layout  
-
----
-
-## 🛠️ Tech Stack
-
-- HTML 
-- CSS
-- JavaScript  
-- Fetch API for external data  
+📱 Responsive layout  
+ 
 
 ---
 
 ## 🌐 API Used
 
-Pokémon data is loaded dynamically using:
+Pokémon data is loaded dynamically using the public Pokémon API:
 
 https://pokeapi.co/
 
-Cards are generated dynamically using the PokéAPI.
+Each game session:
 
-- Random Pokémon IDs are selected each game
-- Pokémon image, name, and type are fetched via Fetch API
-- Cards are duplicated and shuffled for gameplay
+- selects random Pokémon IDs  
+- fetches Pokémon image, name, and type  
+- duplicates and shuffles cards for gameplay  
 
 ---
 
 ## 🎯 How to Play
 
-1. Select your difficulty level  
+1. Select a difficulty level  
 2. Click **Start Game**  
 3. Flip two cards at a time  
 4. Match all Pokémon pairs  
 5. Finish the game in minimum time and steps  
 
----
+
