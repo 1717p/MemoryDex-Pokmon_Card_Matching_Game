@@ -1,1 +1,1 @@
-# MemoryDex-Pok-mon-Card-Matching-Game
+# MemoryDex-Pokmon Card Matching Game
