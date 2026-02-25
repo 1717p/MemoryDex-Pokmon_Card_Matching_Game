@@ -1,4 +1,4 @@
-# 🎮 MemoryDex — Pokémon Card Matching Game
+<img width="1645" height="732" alt="Screenshot 2026-02-25 104514" src="https://github.com/user-attachments/assets/3c034311-aab8-475b-b6fa-bb17db659a36" /># 🎮 MemoryDex — Pokémon Card Matching Game
 
 
 An interactive browser-based Pokémon memory game built with HTML, CSS, and JavaScript.  
@@ -53,6 +53,24 @@ Each game session:
 2. Click **Start Game**  
 3. Flip two cards at a time  
 4. Match all Pokémon pairs  
-5. Finish the game in minimum time and steps  
+5. Finish the game in minimum time and steps
+
+---
+
+## Game Screenshots
+
+### Start Screen
+![Start]<img width="1645" height="732" alt="Screenshot 2026-02-25 104514" src="https://github.com/user-attachments/assets/b301f178-0e84-4ec2-8064-889925a76f4e" />
+
+<img width="808" height="566" alt="Screenshot 2026-02-25 104523" src="https://github.com/user-attachments/assets/6788dbc1-7165-40f7-8471-0c916c169422" />
+
+
+### Gameplay
+![Gameplay](<img width="1247" height="453" alt="Screenshot 2026-02-25 104539" src="https://github.com/user-attachments/assets/d1bd26d9-d939-4f51-8350-5e257bc8dffc" />
+
+
+### Winning Screen
+![Win] <img width="1019" height="570" alt="Screenshot 2026-02-25 104838" src="https://github.com/user-attachments/assets/5734b734-8f15-474c-9f17-10e6ce1a273a" />
+
 
 
