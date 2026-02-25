@@ -67,9 +67,6 @@ Once all pairs are matched, the game over screen appears with your results.From 
 
 ---
 
-## Demo Video
-
-<video src="demo.mp4" controls width="600"></video>
 
 
 
