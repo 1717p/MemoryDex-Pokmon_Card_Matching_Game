@@ -57,7 +57,7 @@ The timer and move counter start automatically when the first card is flipped.
 
 Flip two cards to find matching pairs and clear the board step by step.
 
-(<img width="1247" height="453" alt="Screenshot 2026-02-25 104539" src="https://github.com/user-attachments/assets/d1bd26d9-d939-4f51-8350-5e257bc8dffc" />
+<img width="1247" height="453" alt="Screenshot 2026-02-25 104539" src="https://github.com/user-attachments/assets/d1bd26d9-d939-4f51-8350-5e257bc8dffc" />
 
 
 ### Winning Screen
