@@ -1,4 +1,4 @@
-<img width="1645" height="732" alt="Screenshot 2026-02-25 104514" src="https://github.com/user-attachments/assets/3c034311-aab8-475b-b6fa-bb17db659a36" /># 🎮 MemoryDex — Pokémon Card Matching Game
+# 🎮 MemoryDex — Pokémon Card Matching Game
 
 
 An interactive browser-based Pokémon memory game built with HTML, CSS, and JavaScript.  
@@ -14,22 +14,6 @@ Flip cards, match Pokémon pairs, and complete the board using the fewest steps 
 - Hard → 20 cards  
 - Expert → 24 cards  
 
-⏱️ Real-time game timer  
-
-👣 Step counter  
-
-🔄 Random Pokémon cards loaded dynamically  
-
-🃏 Smooth flip card animations  
-
-🏁 Game-over screen showing total time and steps  
-
-🔁 Restart game option  
-
-🏠 Return to home screen  
-
-📱 Responsive layout  
- 
 
 ---
 
@@ -60,17 +44,24 @@ Each game session:
 ## Game Screenshots
 
 ### Start Screen
-![Start]<img width="1645" height="732" alt="Screenshot 2026-02-25 104514" src="https://github.com/user-attachments/assets/b301f178-0e84-4ec2-8064-889925a76f4e" />
+<img width="1645" height="732" alt="Screenshot 2026-02-25 104514" src="https://github.com/user-attachments/assets/b301f178-0e84-4ec2-8064-889925a76f4e" />
 
-<img width="808" height="566" alt="Screenshot 2026-02-25 104523" src="https://github.com/user-attachments/assets/6788dbc1-7165-40f7-8471-0c916c169422" />
+Here you can choose the difficulty level to begin the game.
+<img width="1430" height="593" alt="Screenshot 2026-02-25 105537" src="https://github.com/user-attachments/assets/8c759d8c-fea8-4d14-a792-3b152fc617a1" />
+
 
 
 ### Gameplay
-![Gameplay](<img width="1247" height="453" alt="Screenshot 2026-02-25 104539" src="https://github.com/user-attachments/assets/d1bd26d9-d939-4f51-8350-5e257bc8dffc" />
+The timer and move counter start automatically when the first card is flipped.
+
+Flip two cards to find matching pairs and clear the board step by step.
+(<img width="1247" height="453" alt="Screenshot 2026-02-25 104539" src="https://github.com/user-attachments/assets/d1bd26d9-d939-4f51-8350-5e257bc8dffc" />
 
 
 ### Winning Screen
-![Win] <img width="1019" height="570" alt="Screenshot 2026-02-25 104838" src="https://github.com/user-attachments/assets/5734b734-8f15-474c-9f17-10e6ce1a273a" />
+Once all pairs are matched, the game over screen appears with your results.From here, you can restart the game or return to the home screen.
+<img width="1529" height="766" alt="Screenshot 2026-02-25 104821" src="https://github.com/user-attachments/assets/b366440e-1f5d-4b0d-af67-649686d3c46c" />
+
 
 
 
